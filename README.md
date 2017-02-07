@@ -1,5 +1,2 @@
 # Notepad
-
-# Write and Save a new file.
-
-#Cool
+This is a simple application, who create and save txt file.
